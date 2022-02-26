@@ -1,2 +1,2 @@
-# Python-Leve1.1
+# Python-Level.1
 파이썬 입문
